@@ -162,18 +162,18 @@ rtp://239.94.0.109:5140/?fcc=220.167.81.247:8027
 rtp://239.94.0.110:5140/?fcc=220.167.81.247:8027
 #EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228771/762982320.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="重庆卫视高清" tvg-name="重庆卫视高清" tvg-logo="https://iptv.ty.uy/tvlogo/重庆卫视高清.png" group-title="卫视",重庆卫视高清
 rtp://239.94.0.82:5140/?fcc=220.167.81.247:8027
-#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888898/224/3221228889/772314650.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-2高清" tvg-name="CDTV-2高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-2高清.png" group-title="四川;生活综合",CDTV-2高清
-rtp://239.94.0.155:5140/?fcc=220.167.81.247:8027
-#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888898/224/3221228815/772314800.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-3高清" tvg-name="CDTV-3高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-3高清.png" group-title="四川;生活综合",CDTV-3高清
-rtp://239.94.0.156:5140/?fcc=220.167.81.247:8027
-#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888898/224/3221228778/772314592.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-4高清" tvg-name="CDTV-4高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-4高清.png" group-title="四川;生活综合",CDTV-4高清
-rtp://239.94.0.157:5140/?fcc=220.167.81.247:8027
-#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888898/224/3221228837/772314698.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-5高清" tvg-name="CDTV-5高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-5高清.png" group-title="四川;生活综合",CDTV-5高清
-rtp://239.94.0.158:5140/?fcc=220.167.81.247:8027
-#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888898/224/3221228894/772314661.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-6高清" tvg-name="CDTV-6高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-6高清.png" group-title="四川;生活综合",CDTV-6高清
-rtp://239.94.0.159:5140/?fcc=220.167.81.247:8027
-#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888898/224/3221228783/772314810.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-8高清" tvg-name="CDTV-8高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-8高清.png" group-title="四川;生活综合",CDTV-8高清
-rtp://239.94.0.160:5140/?fcc=220.167.81.247:8027
+#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228899/783239783.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-2高清" tvg-name="CDTV-2高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-2高清.png" group-title="四川;生活综合",CDTV-2高清
+rtp://239.94.0.165:5140/?fcc=220.167.81.247:8027
+#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228921/783240124.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-3高清" tvg-name="CDTV-3高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-3高清.png" group-title="四川;生活综合",CDTV-3高清
+rtp://239.94.0.174:5140/?fcc=220.167.81.247:8027
+#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228847/783241004.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-4高清" tvg-name="CDTV-4高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-4高清.png" group-title="四川;生活综合",CDTV-4高清
+rtp://239.94.0.177:5140/?fcc=220.167.81.247:8027
+#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228926/783240120.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-5高清" tvg-name="CDTV-5高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-5高清.png" group-title="四川;生活综合",CDTV-5高清
+rtp://239.94.0.184:5140/?fcc=220.167.81.247:8027
+#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228788/783240132.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-6高清" tvg-name="CDTV-6高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-6高清.png" group-title="四川;生活综合",CDTV-6高清
+rtp://239.94.0.185:5140/?fcc=220.167.81.247:8027
+#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228904/783240128.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CDTV-8高清" tvg-name="CDTV-8高清" tvg-logo="https://iptv.ty.uy/tvlogo/CDTV-8高清.png" group-title="四川;生活综合",CDTV-8高清
+rtp://239.94.0.186:5140/?fcc=220.167.81.247:8027
 #EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888888/224/3221228412/585951209.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="金鹰纪实高清" tvg-name="金鹰纪实高清" tvg-logo="https://iptv.ty.uy/tvlogo/金鹰纪实高清.png" group-title="纪实新闻",金鹰纪实高清
 rtp://239.94.1.1:5140/?fcc=220.167.81.247:8027&fec=5139
 #EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888888/224/3221228373/593436497.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CETV-1高清" tvg-name="CETV-1高清" tvg-logo="https://iptv.ty.uy/tvlogo/CETV-1高清.png" group-title="教育",CETV-1高清
