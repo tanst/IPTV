@@ -30,6 +30,8 @@ rtp://239.94.0.37:5140/?fcc=220.167.81.247:8027
 rtp://239.94.0.14:5140/?fcc=220.167.81.247:8027
 #EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228812/764702909.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CCTV-15高清" tvg-name="CCTV-15高清" tvg-logo="https://iptv.ty.uy/tvlogo/CCTV-15高清.png" group-title="央视;综艺音乐",CCTV-15高清
 rtp://239.94.0.38:5140/?fcc=220.167.81.247:8027
+#EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228909/785401439.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CCTV-16 4K" tvg-name="CCTV-16 4K" tvg-logo="https://iptv.ty.uy/tvlogo/CCTV-16 4K.png" group-title="其他",CCTV-16 4K
+rtp://239.94.0.129:5140/?fcc=220.167.81.247:8027
 #EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228869/764702871.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CCTV-17高清" tvg-name="CCTV-17高清" tvg-logo="https://iptv.ty.uy/tvlogo/CCTV-17高清.png" group-title="央视;生活综合",CCTV-17高清
 rtp://239.94.0.39:5140/?fcc=220.167.81.247:8027
 #EXTINF:-1 catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221227981/10000100000000060000000003732199_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="四川卫视高清" tvg-name="四川卫视高清" tvg-logo="https://iptv.ty.uy/tvlogo/四川卫视高清.png" group-title="卫视;四川",四川卫视高清
