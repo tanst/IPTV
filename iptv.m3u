@@ -406,12 +406,8 @@ rtp://239.94.2.10:5140/?fcc=220.167.81.247:8027&fec=5139
 rtp://239.94.2.19:5140/?fcc=220.167.81.247:8027&fec=5139
 #EXTINF:-1 tvg-id="红原月亮湾" tvg-name="红原月亮湾" tvg-logo="https://iptv.ty.uy/tvlogo/红原月亮湾.png" group-title="四川;生活综合",红原月亮湾
 rtp://239.94.2.20:5140/?fcc=220.167.81.247:8027&fec=5139
-#EXTINF:-1 tvg-id="电信导视3" tvg-name="电信导视3" tvg-logo="https://iptv.ty.uy/tvlogo/电信导视3.png" group-title="生活综合",电信导视3
-rtp://239.94.2.21:5140/?fec=5139
 #EXTINF:-1 tvg-id="云演艺宣传" tvg-name="云演艺宣传" tvg-logo="https://iptv.ty.uy/tvlogo/云演艺宣传.png" group-title="生活综合" catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221228538/678607124.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",云演艺宣传
 rtp://239.94.2.25:5140/?fcc=220.167.81.247:8027&fec=5139
-#EXTINF:-1 tvg-id="华西证券" tvg-name="华西证券" tvg-logo="https://iptv.ty.uy/tvlogo/华西证券.png" group-title="四川;生活综合",华西证券
-rtp://239.94.2.42:5140/?fec=5139
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://iptv.ty.uy/tvlogo/凤凰中文.png" group-title="港台",凤凰中文
 rtp://239.94.2.51:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://iptv.ty.uy/tvlogo/凤凰资讯.png" group-title="港台",凤凰资讯
