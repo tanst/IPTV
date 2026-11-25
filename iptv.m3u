@@ -74,7 +74,7 @@ rtp://239.94.0.62:5140/?fcc=220.167.81.247:8027
 rtp://239.94.0.63:5140/?fcc=220.167.81.247:8027
 #EXTINF:-1 tvg-id="东方卫视高清" tvg-name="东方卫视高清" tvg-logo="https://iptv.ty.uy/tvlogo/东方卫视高清.png" group-title="卫视" catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221227922/10000100000000060000000003734364_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视高清
 rtp://239.94.0.64:5140/?fcc=220.167.81.247:8027
-#EXTINF:-1 tvg-id="北京卫视高清" tvg-name="北京卫视高清" tvg-logo="https://iptv.ty.uy/tvlogo/北京卫视高清.png" group-title="卫视",北京卫视高清
+#EXTINF:-1 tvg-id="北京卫视高清" tvg-name="北京卫视高清" tvg-logo="https://iptv.ty.uy/tvlogo/北京卫视高清.png" group-title="卫视" catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221227987/10000100000000060000000003734368_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视高清
 rtp://239.94.0.65:5140/?fcc=220.167.81.247:8027
 #EXTINF:-1 tvg-id="深圳卫视高清" tvg-name="深圳卫视高清" tvg-logo="https://iptv.ty.uy/tvlogo/深圳卫视高清.png" group-title="卫视" catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888896/224/3221227965/10000100000000060000000003734360_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视高清
 rtp://239.94.0.66:5140/?fcc=220.167.81.247:8027
@@ -246,8 +246,6 @@ rtp://239.94.1.37:5140/?fcc=220.167.81.247:8027&fec=5139
 rtp://239.94.1.38:5140/?fcc=220.167.81.247:8027
 #EXTINF:-1 tvg-id="魅力时尚高清专区" tvg-name="魅力时尚高清专区" tvg-logo="https://iptv.ty.uy/tvlogo/魅力时尚高清专区.png" group-title="生活综合" catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888888/224/3221226503/10000100000000060000000000076469_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",魅力时尚高清专区
 rtp://239.94.1.39:5140/?fcc=220.167.81.247:8027
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://iptv.ty.uy/tvlogo/生活时尚.png" group-title="生活综合",生活时尚
-rtp://239.94.1.40:5140/?fcc=220.167.81.247:8027&fec=5139
 #EXTINF:-1 tvg-id="爱生活高清专区" tvg-name="爱生活高清专区" tvg-logo="https://iptv.ty.uy/tvlogo/爱生活高清专区.png" group-title="生活综合",爱生活高清专区
 rtp://239.94.1.41:5140/?fcc=220.167.81.247:8027&fec=8027
 #EXTINF:-1 tvg-id="百变课堂专区" tvg-name="百变课堂专区" tvg-logo="https://iptv.ty.uy/tvlogo/百变课堂专区.png" group-title="教育",百变课堂专区
@@ -282,8 +280,6 @@ rtp://239.94.1.55:5140/?fcc=220.167.81.247:8027&fec=5139
 rtp://239.94.1.56:5140/?fcc=220.167.81.247:8027
 #EXTINF:-1 tvg-id="蓉城先锋专区" tvg-name="蓉城先锋专区" tvg-logo="https://iptv.ty.uy/tvlogo/蓉城先锋专区.png" group-title="四川;生活综合",蓉城先锋专区
 rtp://239.94.1.57:5140/?fcc=220.167.81.247:8027
-#EXTINF:-1 tvg-id="东方财经高清" tvg-name="东方财经高清" tvg-logo="https://iptv.ty.uy/tvlogo/东方财经高清.png" group-title="生活综合;纪实新闻" catchup="default" catchup-source="rtsp://118.123.185.42/PLTV/88888893/224/3221228614/701208658.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方财经高清
-rtp://239.94.1.59:5140/?fcc=220.167.81.247:8027&fec=5139
 #EXTINF:-1 tvg-id="4K视界专区" tvg-name="4K视界专区" tvg-logo="https://iptv.ty.uy/tvlogo/4K视界专区.png" group-title="4K;生活综合",4K视界专区
 rtp://239.94.1.60:5140/?fcc=220.167.81.247:8027
 #EXTINF:-1 tvg-id="4K纪实专区" tvg-name="4K纪实专区" tvg-logo="https://iptv.ty.uy/tvlogo/4K纪实专区.png" group-title="4K;纪实新闻",4K纪实专区
